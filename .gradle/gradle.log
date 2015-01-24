@@ -1,0 +1,103 @@
+****************************
+ Powered By MCP:             
+ http://mcp.ocean-labs.de/   
+ Searge, ProfMobius, Fesh0r, 
+ R4wk, ZeuX, IngisKahn, bspkrs
+Resolving:  MCP Data version : {MCP_VERSION}
+Resolved:   MCP Data version : unknown
+ MCP Data version : unknown
+****************************
+Resolving: net.minecraftforge:{API_NAME}:{API_VERSION}
+Resolved:  net.minecraftforge:forge:1.7.10-10.13.2.1236
+Resolving: {USER_DEV}/dev.json
+Resolved:  C:/Users/Laci/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.2.1236/unpacked/dev.json
+Resolving: {USER_DEV}/dev.json
+Resolved:  C:/Users/Laci/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.2.1236/unpacked/dev.json
+Resolving: {CACHE_DIR}/minecraft/versionJsons
+Resolved:  C:/Users/Laci/.gradle/caches/minecraft/versionJsons
+Resolving: {BUILD_DIR}/tmp/recompCls
+Resolved:  D:/Modding/Ipar/build/tmp/recompCls
+Resolving: {API_CACHE_DIR}/{MAPPING_CHANNEL}/{MAPPING_VERSION}//forgeSrc-{API_VERSION}.jar
+Resolved:  C:/Users/Laci/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.2.1236////forgeSrc-1.7.10-10.13.2.1236.jar
+Resolving: {API_CACHE_DIR}/{MAPPING_CHANNEL}/{MAPPING_VERSION}//this-{API_VERSION}-doesnt.matter
+Resolved:  C:/Users/Laci/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.2.1236////this-1.7.10-10.13.2.1236-doesnt.matter
+Adding repo to : >> C:\Users\Laci\.gradle\caches\minecraft\net\minecraftforge\forge\1.7.10-10.13.2.1236
+Resolving: {API_CACHE_DIR}/{MAPPING_CHANNEL}/{MAPPING_VERSION}//forgeSrc-{API_VERSION}-sources.jar
+Resolved:  C:/Users/Laci/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.2.1236////forgeSrc-1.7.10-10.13.2.1236-sources.jar
+Resolving: {CACHE_DIR}/minecraft/assets/indexes/1.7.10.json
+Resolved:  C:/Users/Laci/.gradle/caches/minecraft/assets/indexes/1.7.10.json
+Resolving: {CACHE_DIR}/minecraft/assets/indexes/{ASSET_INDEX}.json
+Resolved:  C:/Users/Laci/.gradle/caches/minecraft/assets/indexes/1.7.10.json
+All projects evaluated.
+Resolving: {SRG_DIR}/srg.exc
+Resolved:  C:/Users/Laci/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.2.1236///srgs/srg.exc
+Resolving: {SRG_DIR}/mcp-srg.srg
+Resolved:  C:/Users/Laci/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.2.1236///srgs/mcp-srg.srg
+Resolving: {MCP_DATA_DIR}/methods.csv
+Resolved:  C:/Users/Laci/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.2.1236/unpacked/conf/methods.csv
+Resolving: {API_CACHE_DIR}/{API_NAME}-{API_VERSION}-srg.jar
+Resolved:  C:/Users/Laci/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.2.1236/forge-1.7.10-10.13.2.1236-srg.jar
+Resolving: {API_CACHE_DIR}/{MAPPING_CHANNEL}/{MAPPING_VERSION}//forgeSrc-{API_VERSION}.jar
+Resolved:  C:/Users/Laci/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.2.1236////forgeSrc-1.7.10-10.13.2.1236.jar
+Resolving: {BUILD_DIR}/sources/java
+Resolved:  D:/Modding/Ipar/build/sources/java
+Resolving: {USER_DEV}/conf/packaged.srg
+Resolved:  C:/Users/Laci/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.2.1236/unpacked/conf/packaged.srg
+Resolving: {USER_DEV}/conf/packaged.exc
+Resolved:  C:/Users/Laci/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.2.1236/unpacked/conf/packaged.exc
+Resolving: {MCP_DATA_DIR}/methods.csv
+Resolved:  C:/Users/Laci/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.2.1236/unpacked/conf/methods.csv
+Resolving: {MCP_DATA_DIR}/fields.csv
+Resolved:  C:/Users/Laci/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.2.1236/unpacked/conf/fields.csv
+Resolving: {API_CACHE_DIR}/start
+Resolved:  C:/Users/Laci/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.2.1236/start
+Selected primary task 'DefaultTaskParameter{taskName='build',projectPath='null'}'
+Tasks to be executed: [task ':compileApiJava', task ':processApiResources', task ':apiClasses', task ':sourceMainJava', task ':compileJava', task ':processResources', task ':classes', task ':jar', task ':compileTestJava', task ':processTestResources', task ':testClasses', task ':test', task ':extractMcpData', task ':getVersionJson', task ':extractUserDev', task ':genSrgs', task ':reobf', task ':assemble', task ':check', task ':build']
+:compileApiJava (Thread[main,5,main]) started.
+:compileApiJava
+Skipping task ':compileApiJava' as it has no source files.
+:compileApiJava UP-TO-DATE
+:compileApiJava (Thread[main,5,main]) completed. Took 0.014 secs.
+:processApiResources (Thread[main,5,main]) started.
+:processApiResources
+Skipping task ':processApiResources' as it has no source files.
+:processApiResources UP-TO-DATE
+:processApiResources (Thread[main,5,main]) completed. Took 0.004 secs.
+:apiClasses (Thread[main,5,main]) started.
+:apiClasses
+Skipping task ':apiClasses' as it has no actions.
+:apiClasses UP-TO-DATE
+:apiClasses (Thread[main,5,main]) completed. Took 0.003 secs.
+:sourceMainJava (Thread[main,5,main]) started.
+:sourceMainJava
+Skipping task ':sourceMainJava' as it is up-to-date (took 0.193 secs).
+:sourceMainJava UP-TO-DATE
+:sourceMainJava (Thread[main,5,main]) completed. Took 0.197 secs.
+:compileJava (Thread[main,5,main]) started.
+:compileJava
+Failed to get resource: GET. [HTTP HTTP/1.1 403 Forbidden: https://libraries.minecraft.net/mrtjp/projectred/1.7.10-4.5.8.59/projectred-1.7.10-4.5.8.59.pom]
+Resource missing. [HTTP GET: http://files.minecraftforge.net/maven/mrtjp/projectred/1.7.10-4.5.8.59/projectred-1.7.10-4.5.8.59.pom]
+Resource missing. [HTTP HEAD: http://files.minecraftforge.net/maven/mrtjp/projectred/1.7.10-4.5.8.59/projectred-1.7.10-4.5.8.59-dev.jar]
+Resource missing. [HTTP GET: http://repo1.maven.org/maven2/mrtjp/projectred/1.7.10-4.5.8.59/projectred-1.7.10-4.5.8.59.pom]
+Resource missing. [HTTP HEAD: http://repo1.maven.org/maven2/mrtjp/projectred/1.7.10-4.5.8.59/projectred-1.7.10-4.5.8.59-dev.jar]
+Failed to get resource: GET. [HTTP HTTP/1.1 403 Forbidden: https://libraries.minecraft.net//forgeSrc/1.7.10-10.13.2.1236/forgeSrc-1.7.10-10.13.2.1236.pom]
+Failed to get resource: GET. [HTTP HTTP/1.1 403 Forbidden: https://libraries.minecraft.net/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.pom]
+Failed to get resource: GET. [HTTP HTTP/1.1 403 Forbidden: https://libraries.minecraft.net/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.pom]
+Failed to get resource: GET. [HTTP HTTP/1.1 403 Forbidden: https://libraries.minecraft.net/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.pom]
+:compileJava (Thread[main,5,main]) completed. Took 1.614 secs.
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Could not resolve all dependencies for configuration ':compile'.
+> Could not resolve mrtjp:projectred:1.7.10-4.5.8.59.
+  Required by:
+      com.yourname.modid:Ipar:1.0
+   > Could not GET 'https://libraries.minecraft.net/mrtjp/projectred/1.7.10-4.5.8.59/projectred-1.7.10-4.5.8.59.pom'. Received status code 403 from server: Forbidden
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --debug option to get more log output.
+
+BUILD FAILED
+
+Total time: 6.03 secs

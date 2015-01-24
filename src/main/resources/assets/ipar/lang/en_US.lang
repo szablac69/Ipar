@@ -1,0 +1,10 @@
+itemGroup.Ipar=Ipar
+
+item.CreditCard.name=Credit card
+item.Coke.name=Coke
+item.Steel.name=Steel
+item.Slag.name=Slag
+
+tile.ATM.name=ATM
+tile.BlastFurnace.name=Blast Furnace
+tile.LimeStone.name=LimeStone
